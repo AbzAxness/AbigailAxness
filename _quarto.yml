@@ -13,7 +13,7 @@ website:
       - Experience.qmd
       - Awards and Honors.qmd
 
-# supplying a light ("Lux") and dark ("solar") theme to toggle between
+
 format:
   html:
     theme: 
