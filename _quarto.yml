@@ -7,6 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
+              about.qmd
+              Education.qmd
+              Experience.qmd
+              Awards and Honors.qmd
         text: Home
       - about.qmd
       - Education.qmd
