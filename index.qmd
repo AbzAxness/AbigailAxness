@@ -1,11 +1,29 @@
 ---
-title: "AbigailAxness"
+title: "Rocking Geoscience"
+image: profile.jpg
+toc: false
+about: 
+
+  id: hero-heading
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/abigailaxness/
+    - icon: github
+      text: Github
+      href: https://github.com/AbzAxness
+      
+    - icon: facebook
+      text: GeoGrounded
+      href: https://www.facebook.com/geo.grounded.3
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+At Colorado State University (CSU), I've embarked on an exhilarating journey into Geoscience for my Doctorate. It's a realm where mountains perform their slow-motion rise, landscapes evolve like dynamic masterpieces, and bedrock rivers tell tales of ancient flows. This fascinating interplay of natural forces has captivated me!
+
+The Geoscience department at CSU isn't just about lectures and labs; it's a playground for budding earth detectives like me. Every day is an opportunity to unravel the mysteries of mountain building, landscape evolution, and bedrock river analysis. And in this serious world of science, amidst the rigorous research and intense study sessions, there's always room for a good laugh, especially when rocks decide to play hide and seek during fieldwork.
+:::

@@ -9,12 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Education.qmd
+      - Experience.qmd
+      - Awards and Honors.qmd
 
+# supplying a light ("Lux") and dark ("solar") theme to toggle between
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: solar
+      dark: lux
     css: styles.css
-    toc: true
 
 editor: visual
 

@@ -1,9 +1,14 @@
 ---
 title: "About"
+image: WC.jpg
+
+about: 
+
+  id: hero-heading
+  template: jolla
+  image: WC.jpg
 ---
 
-About this site
+**The Joyful Pursuit of Rocky Knowledge**
 
-```{r}
-1 + 1
-```
+My journey took an exciting turn with the opportunity to explore geology in Puerto Rico. Imagine a classroom where every rock formation is a live textbook on natural history! This experience has enriched my skills and prepared me to share this blend of knowledge and wonder with others, from eager students to seasoned scientists.
