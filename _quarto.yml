@@ -11,11 +11,11 @@ website:
       - href: Education.qmd
       - href: Experience.qmd
       - href: Awards and Honors.qmd
-        text: Home
-      - about.qmd
-      - Education.qmd
-      - Experience.qmd
-      - Awards and Honors.qmd
+       
+    #  - about.qmd
+    #  - Education.qmd
+    #  - Experience.qmd
+    #  - Awards and Honors.qmd
 
 
 format:
